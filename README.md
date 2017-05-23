@@ -3,3 +3,4 @@ My first repo
 I believe there is some seriously cool stuff in here. Trying my luck to get some info on Coffeescripts and Hubot
 configuration
 testing out remote repo 
+This is to understand the concept of branches
